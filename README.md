@@ -41,7 +41,7 @@ $ git clone https://github.com/Dicky-XD/Premium
 #### ⇨  Run Script
 ```
 $ cd Premium  
-$ python premium.py 
+$ python elit.py 
 ```
 #### ⇨  Informasi
 ```
