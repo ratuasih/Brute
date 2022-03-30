@@ -5,7 +5,7 @@ Author:
 - Muhammad Dicky Wahyudi
 
 #### ⇨  Install Script Di Termux
-```
+`###
 $ termux-setup-storage  
 $ pkg update && upgrade  
 $ pkg install python  
