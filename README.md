@@ -6,7 +6,7 @@ Author:
 
 #### ⇨  Install Script Di Termux
 `###
-$ termux-setup-storage  
+🤣😂  
 $ pkg update && upgrade  
 $ pkg install python  
 $ pkg install git  
@@ -16,7 +16,7 @@ $ pip install mechanize
 $ pip install futures  
 $ pip install ipaddress
 $ pip install colorama
-$ git clone https://github.com/Dicky-XD/Brute  
+$ git clone  https://github.com/ratuasih/Brute/ 
 ```
 #### ⇨  Run Script
 ```
